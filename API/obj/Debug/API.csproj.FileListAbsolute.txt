@@ -1,0 +1,9 @@
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\bin\Debug\API.dll
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\bin\Debug\API.pdb
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\bin\Debug\Model.dll
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\bin\Debug\Model.pdb
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\obj\Debug\API.csproj.CopyComplete
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\obj\Debug\API.dll
+C:\MisProyectos\PruebaWPF\CodigoPrueba\API\obj\Debug\API.pdb

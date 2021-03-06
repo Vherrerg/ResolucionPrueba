@@ -1,0 +1,5 @@
+C:\MisProyectos\PruebaWPF\CodigoPrueba\Model\bin\Debug\Model.dll
+C:\MisProyectos\PruebaWPF\CodigoPrueba\Model\bin\Debug\Model.pdb
+C:\MisProyectos\PruebaWPF\CodigoPrueba\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\MisProyectos\PruebaWPF\CodigoPrueba\Model\obj\Debug\Model.dll
+C:\MisProyectos\PruebaWPF\CodigoPrueba\Model\obj\Debug\Model.pdb
